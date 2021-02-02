@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>BIG BEAST ISHANK Blog</title>
+        <link>https://bigbeastishank.github.io/beta/blog</link>
+        <description>BIG BEAST ISHANK Blog</description>
+        <lastBuildDate>Mon, 01 Feb 2021 18:30:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <link>https://bigbeastishank.github.io/beta/blog/About me</link>
+            <guid>About me</guid>
+            <pubDate>Mon, 01 Feb 2021 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this blog, I'll be telling you about me]]></description>
+        </item>
+    </channel>
+</rss>
